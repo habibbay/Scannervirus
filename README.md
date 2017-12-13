@@ -8,7 +8,7 @@ $ apt-get update && apt-get upgrade
 
 $ pkg install git -y
 
-$ git clone https://github.com/RikiOktopan1/ScannerVirus
+$ git clone https://github.com/habibbay/Scanvirus
 
 $ cd ScannerVirus
 
